@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Uesr
+ *
+ */
+module baekjoon {
+}
